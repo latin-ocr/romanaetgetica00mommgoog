@@ -1,0 +1,36 @@
+NOTARVM INDEX.
+
+11 == codex lleidelbergensis sace. VIII (v. p. XLVII)
+P = codex Palatinus saec. IX (v. p. XLVIII)
+
+V = codex Valcnciennensis saec. IX (v. p. XLVIII)
+L = codex Laurentianus saec. XI (ν. p. XLIX)
+
+A = codex Ambrosianus saec. XI (v. p. L)
+
+S = excerpta Cheltenhamensia saec. IX (v. p. LVIII)
+O = codex Ottobonianus saec. X (v. p. LIX)
+
+Β = codex Breslaviensis saec. XI (v. p. LIX)
+
+Χ -- codex CantabrigIensis saec. XI (v. p. LXVIII)
+r = codex Berolinensis saec. XII (v. p. LXVIIL
+
+Ζ = codex Atrebatensis (v. p. LXVII)
+
+CORRIGENDA.
+
+p. XLVIII v. 14 saec. X] scr. saec. IX
+3, 10 lecticaverint] aer. lectitaverint
+16, 6 Tusciae Zanyememer conicit auctorem adsumpsisse ex Oresio 7, 19, 5
+33, 20 adhibuit lov-danes Omnium 6, ⁶22, 6
+38, 32 verba primo proelio fortasse accesserunt ex Eutropio 9, 94
+41, 3 imperium d. t. s. t. coeperunt orosii sunt τ, 36, 1
+42, 6 Get. 64] scr. Get. 164
+61, 9 εστ. tantum Magog (cf. p. 174 not. 4)
+63, 11 adde pulularunt H
+71 not. 4 dele: intelleguntur quae modo praecedunt
+72, 1 adde pustulavit H
+86, 9 ad omittendum fuit cum HPVLA
+112, 8 scr. adversi, Gothos inquiret
+
